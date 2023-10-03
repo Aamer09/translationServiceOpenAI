@@ -1,0 +1,24 @@
+{
+  "name": "openai-translation-locale-service-chatgpt-0.1",
+  "version": "1.0.0",
+  "description": "This is ai translation service created using chatgpt open AI reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aamer",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.11.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aamer09/translationServiceOpenAI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aamer09/translationServiceOpenAI/issues"
+  },
+  "homepage": "https://github.com/Aamer09/translationServiceOpenAI#readme"
+}
